@@ -6,6 +6,7 @@ Modelo preditivo para o dataset "California Housing"
 ```bash
 conda env create -f environment.yml
 conda activate california
+poetry install
 ```
 
 ## Trabalhando no projeto

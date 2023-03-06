@@ -1,0 +1,6 @@
+name: california
+dependencies:
+  - python
+  - pip
+  - pip:
+    - poetry
